@@ -6,7 +6,7 @@ eProsima Fast DDS is predictable, scalable, flexible, and efficient in resource 
 2. Fast DDS-Gen, a generation tool for bridging typed interface with the middleware implementation.
 3. The underlying RTPS wire protocol implementation.
 
-# eProsima FAST DDNS INSTALLATION
+# eProsima FAST DDS INSTALLATION
 you can install Fast DDS from binaries, sources or docker.you can refer to [offical installation manual](https://fast-dds.docs.eprosima.com/en/latest/index.html)
 
 # SIMPLE USAGE
