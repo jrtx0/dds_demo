@@ -10,6 +10,6 @@ eProsima Fast DDS is predictable, scalable, flexible, and efficient in resource 
 you can install Fast DDS from binaries, sources or docker.you can refer to [offical installation manual](https://fast-dds.docs.eprosima.com/en/latest/index.html)
 
 # SIMPLE USAGE
-1. enter **src/gen** folder and run command **fastddsgen HelloWorld.idl**
+1. enter **src/gen** folder and run command **fastddsgen ../HelloWorld.idl**
 2. switch to **build** folder and run command **camke .. && make**, you will get subscribe and publisher application
 3. run **DDSHelloWorldPublisher** and **DDSHelloWorldSubscriber** in two split termial, where you can see interaction log.
